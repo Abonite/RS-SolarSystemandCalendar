@@ -22,3 +22,8 @@ class Stars:
         self.p_y = p_y
         self.p_z = p_z
 
+def funcname(parameter_list):
+    """
+    docstring
+    """
+    pass
